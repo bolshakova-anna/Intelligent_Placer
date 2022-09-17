@@ -39,7 +39,7 @@ assert intelligent_placer.check_image(“/path/to/my/image.png”)
   1. [монета](https://github.com/bolshakova-anna/Intelligent_Placer/blob/develop/data/objects/coin.jpg)
   1. [кейс](https://github.com/bolshakova-anna/Intelligent_Placer/blob/develop/data/objects/case.jpg)
 
-# Примеры с комментарием
+# Примеры с пояснениями и примерами расположения, если такие имеются
   1. [1 помещаемый объект](https://github.com/bolshakova-anna/Intelligent_Placer/tree/develop/data/examples/1)
   1. [2 объекта, помещается 1](https://github.com/bolshakova-anna/Intelligent_Placer/tree/develop/data/examples/2)
   1. [2 объекта, помещается 2](https://github.com/bolshakova-anna/Intelligent_Placer/tree/develop/data/examples/3)
