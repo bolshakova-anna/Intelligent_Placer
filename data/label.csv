@@ -1,0 +1,11 @@
+input path, label
+github.com/bolshakova-anna/Intelligent_Placer/tree/develop/data/examples/1/in.jpeg, true
+github.com/bolshakova-anna/Intelligent_Placer/tree/develop/data/examples/2/in.jpeg, false
+github.com/bolshakova-anna/Intelligent_Placer/tree/develop/data/examples/3/in.jpeg, true
+github.com/bolshakova-anna/Intelligent_Placer/tree/develop/data/examples/4/in.jpeg, false
+github.com/bolshakova-anna/Intelligent_Placer/tree/develop/data/examples/5/in.jpeg, false
+github.com/bolshakova-anna/Intelligent_Placer/tree/develop/data/examples/6/in.jpeg, true
+github.com/bolshakova-anna/Intelligent_Placer/tree/develop/data/examples/7/in.jpeg, true
+github.com/bolshakova-anna/Intelligent_Placer/tree/develop/data/examples/8/in.jpeg, false
+github.com/bolshakova-anna/Intelligent_Placer/tree/develop/data/examples/9/in.jpeg, false
+github.com/bolshakova-anna/Intelligent_Placer/tree/develop/data/examples/10/in.jpeg, true
