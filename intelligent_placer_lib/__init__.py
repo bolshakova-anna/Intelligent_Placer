@@ -1,0 +1,1 @@
+import intelligent_placer_lib.recognizer as recognizer
